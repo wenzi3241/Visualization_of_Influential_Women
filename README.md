@@ -1,4 +1,4 @@
-# Influential Women Of 21st Century
+#Influential Women Of 21st Century
 
 ### Raw data
 
@@ -12,13 +12,13 @@
 
 * square\_images/: contains all squared version of raw images
 
-### Visualization code
+### Visualization code in d3
 
 * index.html
 
 * index.css
 
-* main.js: first layout reprensenting women based on their awarded field, decade, and geometric regions. Toggle continents to show percentage of awareded women.
+* main.js: first layout reprensenting women based on their awarded field, decade, and geometric regions. Toggle continents to show percentage of awarded women.
 
 * clearCell.js: helper funciton to clear svg
 
