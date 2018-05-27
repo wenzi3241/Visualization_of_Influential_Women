@@ -22,7 +22,7 @@
 
 * clearCell.js: helper funciton to clear svg
 
-* drawCell.js: second layout of displaying images of women upon selection within same filed and decade (basically same table cell)
+* drawCell.js: second layout of displaying images of women upon selection within same field and decade (basically same table cell in the first layout)
 
 ## Live visualization
 https://wenzi3241.github.io/Visualization\_of\_Influential\_Women/
